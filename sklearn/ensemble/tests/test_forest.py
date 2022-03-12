@@ -5,7 +5,8 @@ Testing for the forest module (sklearn.ensemble.forest).
 # Authors: Gilles Louppe,
 #          Brian Holt,
 #          Andreas Mueller,
-#          Arnaud Joly
+#          Arnaud Joly, 
+#          Jihane Bennis
 # License: BSD 3 clause
 
 import pickle
